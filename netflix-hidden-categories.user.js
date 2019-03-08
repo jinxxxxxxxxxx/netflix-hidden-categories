@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Adds links to Netflix's weirdly-specific hidden categories.
 // @author       Alessio (github.com/alessiovierti)
-// @match        https://www.netflix.com/browse/*
+// @match        https://www.netflix.com/browse*
 // @grant        none
 // @require      http://code.jquery.com/jquery-latest.js
 // @downloadUrl  https://github.com/alessiovierti/netflix-hidden-categories/releases/latest/download/netflix-hidden-categories.user.js
