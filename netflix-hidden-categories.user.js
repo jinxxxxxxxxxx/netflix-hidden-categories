@@ -7,8 +7,8 @@
 // @match        https://www.netflix.com/browse/*
 // @grant        none
 // @require      http://code.jquery.com/jquery-latest.js
-// @downloadUrl  https://github.com/alessiovierti/netflix-hidden-categories/releases/download/latest/netflix-hidden-categories.user.js
-// @updateUrl    https://github.com/alessiovierti/netflix-hidden-categories/releases/download/latest/netflix-hidden-categories.user.js
+// @downloadUrl  https://github.com/alessiovierti/netflix-hidden-categories/releases/latest/download/netflix-hidden-categories.user.js
+// @updateUrl    https://github.com/alessiovierti/netflix-hidden-categories/releases/latest/download/netflix-hidden-categories.user.js
 // ==/UserScript==
 
 (function() {

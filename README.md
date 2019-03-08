@@ -31,7 +31,7 @@
 
 ### Installation
 
-<a href="https://github.com/alessiovierti/netflix-hidden-categories/releases/download/latest/netflix-hidden-categories.user.js">
+<a href="https://github.com/alessiovierti/netflix-hidden-categories/releases/latest/download/netflix-hidden-categories.user.js">
   <img src="https://img.shields.io/badge/install-script-success.svg">
 </a>
 
