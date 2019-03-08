@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-	<img src="https://i.imgur.com/tZ1RyWe.gif" alt="Demo Script">
+	<img src="https://i.imgur.com/OYJTK43.gif" alt="Demo Script" width="70%">
 </p>
 
 ### Installation
